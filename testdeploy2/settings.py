@@ -27,7 +27,8 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 # ALLOWED_HOSTS = [".vercel.app", "now.sh"]
-ALLOWED_HOSTS = [".vercel.app"]
+# ALLOWED_HOSTS = [".vercel.app"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
